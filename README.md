@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ROBIN.EXE&fontSize=80&fontColor=4A9B8E&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A9B8E,100:6BC4B8&height=200&section=header&text=ROBIN.EXE&fontSize=80&fontColor=ffffff&animation=twinkling" />
 </div>
 
 <p align="center">
@@ -230,10 +230,4 @@ const robin = {
 
 **STATUS:** 🟢 ONLINE | **MODE:** ⚡ CODING | **COFFEE:** ☕ ███████░░░ 70%
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </div>
