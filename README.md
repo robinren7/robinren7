@@ -1,142 +1,152 @@
 <div align="center">
-
-# ✨ Hi, I'm Robin (Bing) ✨
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9FC5E8&center=true&vCenter=true&width=435&lines=Software+Development+Engineer;Full+Stack+Developer;AI+%26+Cloud+Enthusiast;Dream+Big%2C+Code+Bigger+%F0%9F%92%AB" alt="Typing SVG" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,22&height=200&section=header&text=ROBIN.EXE&fontSize=80&fontColor=00ff00&animation=twinkling" />
 </div>
 
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-robirenbing%40outlook.com-9FC5E8?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:robirenbing@outlook.com)
-[![Location](https://img.shields.io/badge/Location-London%2C%20UK-B4D7F1?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com)
-[![Phone](https://img.shields.io/badge/Phone-07308708849-C9E4F5?style=for-the-badge&logo=phone&logoColor=white)](tel:07308708849)
-
-</div>
-
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=SYSTEM+INITIALIZING...;SOFTWARE+ENGINEER+%7C+FULL+STACK;AI+INTEGRATION+SPECIALIST;MICROSERVICES+ARCHITECT" alt="Typing SVG" />
+</p>
 
 <div align="center">
-
-## 🌙 About Me 🌙
-
-</div>
-```
-🎓 Master of Education @ UCL
-💼 Software Development Engineer Intern @ NextTier & Eth Tech
-🌸 Passionate about building scalable systems & beautiful UX
-✨ Currently exploring AI integration & microservices architecture
-🌊 Dream in code, build in reality
-```
-
----
-
-<div align="center">
-
-## 💫 Tech Galaxy 💫
-
-</div>
-
-### 🌟 Languages
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&color=B4D7F1)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&color=9FC5E8)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&color=C9E4F5)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white&color=A8D5E8)
-![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white&color=B4D7F1)
-
-### ☁️ Frameworks & Tools
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white&color=9FC5E8)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&color=C9E4F5)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white&color=A8D5E8)
-![MyBatis](https://img.shields.io/badge/MyBatis-%23DC382D.svg?style=for-the-badge&logo=mybatis&logoColor=white&color=B4D7F1)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&color=9FC5E8)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white&color=C9E4F5)
-
-### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&color=A8D5E8)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&color=9FC5E8)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white&color=B4D7F1)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white&color=C9E4F5)
-
-### 🤖 AI & Innovation
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&color=9FC5E8)
-![Claude](https://img.shields.io/badge/Claude_AI-181A1D?style=for-the-badge&logo=anthropic&logoColor=white&color=A8D5E8)
-![GenAI](https://img.shields.io/badge/GenAI-FF6B6B?style=for-the-badge&logo=ai&logoColor=white&color=B4D7F1)
-
----
-
-<div align="center">
-
-## 🌸 Experience Highlights 🌸
-
-</div>
-
-### 💼 NextTier - Software Development Engineer Intern
-*Feb 2024 - Jun 2024 | USA (Remote)*
-
-🏠 **Student Housing Management System**
-- Built reusable UX component library adopted by **10+ developers**
-- Designed RESTful API services with **10+ core endpoints** across **8+ microservices**
-- Integrated **OpenAI APIs** with prompt engineering, improved listing quality consistency by **40%**
-
-### 💼 Eth Tech - Software Development Engineer Intern
-*Sep 2024 - Feb 2025 | USA (Remote)*
-
-💄 **K-Beauty E-commerce Platform**
-- Developed end-to-end application functionality with admin module
-- Created interactive UX (multi-step wizard, real-time dashboard, visualization)
-- Designed **near real-time data pipeline** with notification & reporting systems
-- Migrated to stream-based approach with **SQS**, scaled from **1500 to 10000** clients
-- Implemented **idempotency** for zero-downtime payment processing
-- Proposed **LLM agent** for automated customer complaint resolution
-
-🎯 **Big Data Recommendation System**
-- Improved efficiency, reduced latency by **~40%** and **~30%**
-- Built **production-proof PoC** using **OpenAI API and RAG**
-- Designed **multi-step orchestration** integrating 3 internal services via middleware
-
----
-
-<div align="center">
-
-## 📊 GitHub Stats 📊
-
-<img src="https://github-readme-stats.vercel.app/api?username=robinren7&show_icons=true&theme=nightowl&bg_color=E8F4F8&title_color=5B9BD5&text_color=4A90A4&icon_color=9FC5E8&border_color=B4D7F1" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=robinren7&theme=nightowl&background=E8F4F8&ring=5B9BD5&fire=9FC5E8&currStreakLabel=4A90A4&border=B4D7F1" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robinren7&layout=compact&theme=nightowl&bg_color=E8F4F8&title_color=5B9BD5&text_color=4A90A4&border_color=B4D7F1" alt="Top Languages" />
-
+  
+  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=robinren7&color=brightgreen&style=for-the-badge)
+  
 </div>
 
 ---
 
-<div align="center">
-
-## ✨ Dream × Code × Create ✨
-
-*"Building the future, one commit at a time"* 💫
-
-<img src="https://komarev.com/ghpvc/?username=robinren7&label=Profile%20Views&color=9FC5E8&style=for-the-badge" alt="Profile Views" />
-
-</div>
-
----
-
-<div align="center">
-
-### 🌊 Let's Connect 🌊
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-9FC5E8?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-B4D7F1?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
-
-</div>
-
-<div align="center">
-```
-╔═══════════════════════════════════════════════════════╗
-║  "Code is poetry, and I'm writing my masterpiece."   ║
-╚═══════════════════════════════════════════════════════╝
+### ⚡ SYSTEM STATUS
+```javascript
+const robin = {
+    location: "London, UK 🇬🇧",
+    role: "Software Development Engineer",
+    code: ["Java", "TypeScript", "Python", "JavaScript"],
+    architecture: ["Microservices", "Event-Driven", "RESTful API"],
+    techCommunities: {
+        intern: "NextTier & Eth Tech",
+        focus: "AI Integration & Cloud Architecture"
+    },
+    currentlyLearning: "Advanced System Design",
+    funFact: "I turn ☕ into </> code"
+};
 ```
 
+### 🎯 TECH ARSENAL
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,react,nodejs,python,aws,docker,redis,postgres,mongodb,kubernetes&theme=dark" />
+</p>
+
+### 📊 COMBAT STATS
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robinren7&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&border_color=00ff00"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robinren7&layout=compact&langs_count=8&theme=chartreuse-dark&border_color=00ff00"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=robinren7&theme=chartreuse-dark&border=00ff00&fire=00ff00&ring=00ff00" />
+</div>
+
+### 🏆 ACHIEVEMENTS UNLOCKED
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=robinren7&theme=matrix&no-frame=true&column=7&margin-w=15&margin-h=15" />
+</p>
+
+### 💼 MISSION LOGS
+
+#### 🎯 NextTier - SOFTWARE DEV ENGINEER INTERN
+**[Feb 2024 - Jun 2024]** | USA (Remote)
+```diff
++ Built reusable UX component library → Adopted by 10+ developers
++ Designed RESTful API services → 10+ core endpoints, 8+ microservices
++ Integrated OpenAI APIs → Improved listing quality by 40%
++ Reduced customization efforts by 20%
+```
+
+#### 🎯 Eth Tech - SOFTWARE DEV ENGINEER INTERN
+**[Sep 2024 - Feb 2025]** | USA (Remote)
+```diff
++ Developed K-Beauty e-commerce platform with admin module
++ Created interactive UX → Multi-step wizard, real-time dashboard
++ Designed near real-time data pipeline with notifications
++ Scaled system from 1,500 to 10,000 clients using SQS
++ Implemented idempotency for zero-downtime payment processing
++ Proposed LLM agent for automated customer complaint resolution
++ Built Big Data Recommendation System
++ Improved efficiency → Reduced latency by ~40% and ~30%
++ Designed multi-step orchestration integrating 3 internal services
+```
+
+### 🔧 CORE ABILITIES
+```yaml
+Backend:
+  - Java, Spring Boot, MyBatis
+  - RESTful API Design
+  - Microservices Architecture
+  
+Frontend:
+  - React, TypeScript, JavaScript
+  - Responsive UI/UX Design
+  - Component Libraries
+
+Database:
+  - MySQL, PostgreSQL, MongoDB
+  - Redis Caching
+  - Query Optimization
+
+Cloud & DevOps:
+  - AWS (SQS, ECS, Lambda, API Gateway)
+  - Docker, Kubernetes
+  - CI/CD Pipelines
+
+AI & Innovation:
+  - OpenAI API Integration
+  - RAG (Retrieval-Augmented Generation)
+  - GenAI Applications
+  - LLM Agent Development
+```
+
+### 🎓 EDUCATION MODULES
+```
+📚 Master of Education
+   └─ UCL, UK [Sep 2022 - Nov 2023]
+
+📚 Bachelor of Digital Communication Studies  
+   └─ University of Liverpool/Xi'an Jiaotong-Liverpool University [Sep 2018 - Nov 2022]
+```
+
+---
+
+<div align="center">
+  
+### 📡 CONNECT.EXE
+  
+[![Email](https://img.shields.io/badge/Email-robirenbing@outlook.com-00ff00?style=for-the-badge&logo=microsoft-outlook&logoColor=white&labelColor=0a0a0a)](mailto:robirenbing@outlook.com)
+[![Phone](https://img.shields.io/badge/Phone-07308708849-00ff00?style=for-the-badge&logo=phone&logoColor=white&labelColor=0a0a0a)](tel:07308708849)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00ff00?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a)](YOUR_LINKEDIN_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00ff00?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0a0a0a)](YOUR_PORTFOLIO_URL)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 SYSTEM MESSAGE
+```
+┌─────────────────────────────────────────────────────────┐
+│ "Code is not just what I write,                         │
+│  it's how I solve problems and build the future."       │
+└─────────────────────────────────────────────────────────┘
+```
+
+**STATUS:** `ONLINE` | **MODE:** `CODING` | **COFFEE:** `███████░░░ 70%`
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,22&height=100&section=footer" />
 </div>
